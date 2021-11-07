@@ -4,6 +4,10 @@ import random
 import re
 import sys
 
+res = math.floor(math.sqrt(28))
+print(res)
+res1 = math.sqrt(28)
+print(res1)
 
 res = math.floor(math.sqrt(28))
 print(res)
